@@ -1,0 +1,16 @@
+/home/roger/Desktop/DIO/cSharp/C#/bin/Debug/net5.0/C#
+/home/roger/Desktop/DIO/cSharp/C#/bin/Debug/net5.0/C#.deps.json
+/home/roger/Desktop/DIO/cSharp/C#/bin/Debug/net5.0/C#.runtimeconfig.json
+/home/roger/Desktop/DIO/cSharp/C#/bin/Debug/net5.0/C#.runtimeconfig.dev.json
+/home/roger/Desktop/DIO/cSharp/C#/bin/Debug/net5.0/C#.dll
+/home/roger/Desktop/DIO/cSharp/C#/bin/Debug/net5.0/ref/C#.dll
+/home/roger/Desktop/DIO/cSharp/C#/bin/Debug/net5.0/C#.pdb
+/home/roger/Desktop/DIO/cSharp/C#/obj/Debug/net5.0/C#.csproj.AssemblyReference.cache
+/home/roger/Desktop/DIO/cSharp/C#/obj/Debug/net5.0/C#.GeneratedMSBuildEditorConfig.editorconfig
+/home/roger/Desktop/DIO/cSharp/C#/obj/Debug/net5.0/C#.AssemblyInfoInputs.cache
+/home/roger/Desktop/DIO/cSharp/C#/obj/Debug/net5.0/C#.AssemblyInfo.cs
+/home/roger/Desktop/DIO/cSharp/C#/obj/Debug/net5.0/C#.csproj.CoreCompileInputs.cache
+/home/roger/Desktop/DIO/cSharp/C#/obj/Debug/net5.0/C#.dll
+/home/roger/Desktop/DIO/cSharp/C#/obj/Debug/net5.0/ref/C#.dll
+/home/roger/Desktop/DIO/cSharp/C#/obj/Debug/net5.0/C#.pdb
+/home/roger/Desktop/DIO/cSharp/C#/obj/Debug/net5.0/C#.genruntimeconfig.cache
